@@ -1,29 +1,30 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster
 
-Submitted by: **Your Name Here**
+Submitted by: Ann Jayan
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+[ * ] The introduction section explains the background of the company and how many games remain unfunded.
+[ * ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+[ * ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+[ * ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+[ * ] Added a Search Bar + Changed some UI colors
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<!-- I had to make the video short, the imgur site wouldnt upload my original 1min long video-->
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/VhP7pEQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,9 +37,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Making an aesthetic UI was a bit fo a struggle, i have little UI experience, but i chose some more desaturated and cream colors because i thought that felt nicer to look at than the gray. I also didnt understand template literals that well so it took a couple youtube videos to help me understand as i'm more of avisual/hands on learner.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Ann Jayan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
