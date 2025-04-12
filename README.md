@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features: https://imgur.com/XATzNDW
 <!-- I had to make the video short, the imgur site wouldnt upload my original 1min long video-->
 
-<img src='https://imgur.com/XATzNDW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/XATzNDWgif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur 
